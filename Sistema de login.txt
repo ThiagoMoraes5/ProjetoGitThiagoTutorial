@@ -1,1 +1,3 @@
 Digite seu e-mail aqui.
+Digite sua senha
+digite sua idade
